@@ -9,13 +9,13 @@ namespace GitTesting
     public class Test_1
     {
         public string Id { get; set; }
-        public string Id1 { get; set; }
+        public string Id1894904043 { get; set; }
         public string Id2 { get; set; }
         public string Id3 { get; set; }
         public string Id4 { get; set; }
         public string Id5 { get; set; }
         public string Id6 { get; set; }
-        public string Id7 { get; set; }
-        public string Id8 { get; set; }
+        public string Id73839903 { get; set; }
+        public string Id88393003 { get; set; }
     }
 }
