@@ -1,0 +1,6 @@
+C:\Users\FINTRAK\Desktop\Junks\Training Proj\GitTesting\GitTesting\bin\Debug\GitTesting.exe.config
+C:\Users\FINTRAK\Desktop\Junks\Training Proj\GitTesting\GitTesting\bin\Debug\GitTesting.exe
+C:\Users\FINTRAK\Desktop\Junks\Training Proj\GitTesting\GitTesting\bin\Debug\GitTesting.pdb
+C:\Users\FINTRAK\Desktop\Junks\Training Proj\GitTesting\GitTesting\obj\Debug\GitTesting.csprojResolveAssemblyReference.cache
+C:\Users\FINTRAK\Desktop\Junks\Training Proj\GitTesting\GitTesting\obj\Debug\GitTesting.exe
+C:\Users\FINTRAK\Desktop\Junks\Training Proj\GitTesting\GitTesting\obj\Debug\GitTesting.pdb
