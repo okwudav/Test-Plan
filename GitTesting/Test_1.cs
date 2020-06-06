@@ -8,8 +8,8 @@ namespace GitTesting
 {
     public class Test_1
     {
-        public string Id { get; set; }
-        public string Id1894904043 { get; set; }
+        public string Id516272 { get; set; }
+        public string Id1 { get; set; }
         public string Id2 { get; set; }
         public string Id3 { get; set; }
         public string Id4 { get; set; }
